@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "debug:local": "npx cypress open",
+        "run:local": "npx cypress run",
+        "run:ci": "npx cypress run --record --key f19b1665-cadf-413c-b1ef-edaf36e68067 --browser chrome"
+    },
+    "devDependencies": {
+        "cypress": "^12.13.0",
+        "mysql": "github:mysqljs/mysql"
+    }
+}

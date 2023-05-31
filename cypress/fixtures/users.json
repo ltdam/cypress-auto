@@ -1,0 +1,8 @@
+{
+    "users": [
+        {
+            "emailPrefix": "test-email",
+            "password": "!Qwerty!"
+        }
+    ]
+}
