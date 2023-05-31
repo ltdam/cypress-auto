@@ -6,13 +6,15 @@ This demo project is also playing with Cypress dashboard and potentially using C
 
 ## Scenarios and test coverage 
 
-**_GIVEN_** I am opening Github website
+```bash
+GIVEN I am opening Github website
 
-**_WHEN_** I click sign in button
+WHEN I click sign in button
 
-**_AND_** I input wrong credentials
+AND I input wrong credentials
 
-**_THEN_** Verify error message is displayed
+THEN Verify error message is displayed
+```
 
 ## Installation
 
