@@ -27,7 +27,9 @@ npm i
 ## Run tests locally
 
 ```python
-npm run debug:local or npx cypress open # to build and run local app with Cypress dashboard
+# to build and run local app with Cypress dashboard
+npm run debug:local or npx cypress open
 
-npm run run:ci # to run tests in Chrome with in headless mode and result is uploaded to Cypress Cloud
+# to run tests in Chrome with in headless mode and result is uploaded to Cypress Cloud
+npm run run:ci
 ```
